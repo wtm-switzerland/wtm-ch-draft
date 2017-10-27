@@ -1,7 +1,6 @@
 logo: # add logo name
 title: Women Techmakers Switzerland
-description: > WTM provides visibility, community, and resources for women in technology to drive innovation and participation in the field. The events are designed to promote an environment of inclusion for women in technology, as well as celebrate women leading the industry. WTM is part of GDG Zurich and we're committed to making people off all genders welcome in our community.
-Disclaimer: GDG Women Techmakers Switzerland is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/groups/
+description: 'WTM provides visibility, community, and resources for women in technology to drive innovation and participation in the field.'
 permalink: ':title/'
 #baseurl: "/bef" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
