@@ -4534,11 +4534,11 @@ cite {
 }
 
 .about_box {
-  position: absolute;
+  position: relative;
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  width: 600px;
-  max-width: 90%;
+  width: 23%;
+  float: left;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
